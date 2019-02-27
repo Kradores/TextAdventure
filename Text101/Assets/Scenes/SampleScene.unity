@@ -352,6 +352,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1788083726}
+  startingState: {fileID: 11400000, guid: 17d5417dea0579040809c0163ca8be06, type: 2}
 --- !u!4 &488675379
 Transform:
   m_ObjectHideFlags: 0
@@ -581,7 +582,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 07d3d831822a3c44c996e0310516c1c2, type: 3}
-    m_FontSize: 20
+    m_FontSize: 24
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -861,7 +862,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: 07d3d831822a3c44c996e0310516c1c2, type: 3}
-    m_FontSize: 12
+    m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -872,7 +873,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'text text text text text text text text text text text text text text text
+  m_Text: text text text text text text text text text text text text text text text
     text text text text text text text text text text text text text text text text
     text text text text text text text text text text text text text text text text
     text text text text text text text text text text text text text text text text
@@ -880,7 +881,7 @@ MonoBehaviour:
     text text text text text text text text text text text text text text text text
     text text text text text text text text text text text text text text text text
     text text text text text text text text text text text text text text text text
-    text text text text text text text text text text text text text text text '
+    text text text text text text
 --- !u!222 &1788083727
 CanvasRenderer:
   m_ObjectHideFlags: 0
