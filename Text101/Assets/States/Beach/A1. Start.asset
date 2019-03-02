@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9eb17d903fbeca45b0ceb44ad6c93d6, type: 3}
+  m_Name: A1. Start
+  m_EditorClassIdentifier: 
+  storyText: "I were on a ship. There was a huge storm, I almost died.\r\nI wake up
+    on an Island from a sharp pain on my leg.\r\nA crab bite my finger. Could grab
+    it for food or kick it away.\r\n\r\n1. Kick the crab and move on.\r"
+  nextStates:
+  - {fileID: 11400000, guid: 761b568b4f87a174d94bd5fa5f8bacc1, type: 2}

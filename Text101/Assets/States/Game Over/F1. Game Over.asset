@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9eb17d903fbeca45b0ceb44ad6c93d6, type: 3}
+  m_Name: F1. Game Over
+  m_EditorClassIdentifier: 
+  storyText: 'Well, that clearly wasn''t the right choice.
+
+
+    You died.
+
+
+    Want to try again?
+
+    1. Yes, this time nothing will stop me.
+
+    2. No, I am too scared for now.'
+  nextStates:
+  - {fileID: 11400000, guid: 17d5417dea0579040809c0163ca8be06, type: 2}
+  - {fileID: 11400000, guid: 38d69881a478a5549b27de92b900a743, type: 2}

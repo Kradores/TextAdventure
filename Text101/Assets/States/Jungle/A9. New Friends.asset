@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9eb17d903fbeca45b0ceb44ad6c93d6, type: 3}
+  m_Name: A9. New Friends
+  m_EditorClassIdentifier: 
+  storyText: "I fall on the ground. The other guy with spear is running at me. I grab
+    the spear in my shoulder. Pull it out in excruciating pain, almost lost my conscious.
+    I turn around the spear and prepare to stop him. At this moment the other guy
+    throws ground in my eyes, I DON\"T SEE ANYTHING. When I manage to open my eyes
+    - the spear guy is dead - he run into my spear. The other guy run away. I feel
+    a relive, I survived! When I take a 2nd look at him I see that his spear is into
+    my stomach.\r\n\r\n1. Continue..."
+  nextStates:
+  - {fileID: 11400000, guid: 18d9297341cc1804cbc8eb278564c0b2, type: 2}

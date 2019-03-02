@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9eb17d903fbeca45b0ceb44ad6c93d6, type: 3}
+  m_Name: C3. Sneaking
+  m_EditorClassIdentifier: 
+  storyText: "Maybe they have a way to get out of this Island. Maybe I should follow
+    them.\r\n\r\n1. Follow them\r\n2. Move in another direction."
+  nextStates:
+  - {fileID: 11400000, guid: baf0e6e3799f14240b70d6c17633920c, type: 2}
+  - {fileID: 11400000, guid: 3e5b979981501d046b31bc8641761b60, type: 2}

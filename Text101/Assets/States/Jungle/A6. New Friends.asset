@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9eb17d903fbeca45b0ceb44ad6c93d6, type: 3}
+  m_Name: A6. New Friends
+  m_EditorClassIdentifier: 
+  storyText: "As soon as she see me, she screams and runs away. Then came 2 guys with
+    spears at me. I have nothing to defend myself with.\r\n\r\n1. Fight.\r\n2. Give
+    up."
+  nextStates:
+  - {fileID: 11400000, guid: a47f5fc7311e70d4a8f667ab749a56ab, type: 2}
+  - {fileID: 11400000, guid: 547201e388a5b9d4da182bef9c78d630, type: 2}
